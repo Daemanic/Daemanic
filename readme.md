@@ -2,8 +2,8 @@
 
 ## ✨ About Me
 
-* 📚 I'm currently studying at **Softwarica College of IT and E-Commerce** (First Year).
-* 🔐 I'm focusing on **Cybersecurity** while also being highly interested in **Development**.
+* 📚 1st Year at **Softwarica College of IT and E-Commerce**
+* 🔐 Passionate about **Cybersecurity** and also interested in **Application Development**.
 
 ---
 
