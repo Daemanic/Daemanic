@@ -1,5 +1,10 @@
 ### Daemanic™️
 
+## ✨ About Me
+
+* 📚 I'm currently studying at **Softwarica College of IT and E-Commerce** (First Year).
+* 🔐 I'm focusing on **Cybersecurity** while also being highly interested in **Development**.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -24,16 +29,4 @@
   <a href="https://www.lua.org/">
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua Badge" />
   </a>
-</p>
-
----
-
-### GitHub Stats
-
-You can add dynamic statistics cards to show off your activity and skills. You'll need to replace `Daemanic` with your GitHub username in the links below.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daemanic&show_icons=true&theme=dark" alt="Daemanic's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daemanic&layout=compact&theme=dark" alt="Daemanic's Top Languages" />
 </p>
