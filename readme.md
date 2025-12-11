@@ -1,20 +1,8 @@
-## Hi there 👋
-
-### I'm Daemanic, a passionate developer & designer.
-
-* 🔭 I'm currently working on **personal projects** to enhance my full-stack skills.
-* 🌱 I’m currently learning **advanced Python data structures** and **modern CSS layouts**.
-* 👯 I’m looking to collaborate on **open-source web development projects**.
-* 💬 Ask me about **game development** (using Lua) or **UI/UX design** (using Figma).
-* 📫 How to reach me: *[Add your preferred contact method, e.g., via email or LinkedIn]*
-* 😄 Pronouns: *[Add your pronouns, e.g., he/him]*
-* ⚡ Fun fact: I love combining my coding skills with creative design!
+### Daemanic™️
 
 ---
 
 ## 🛠️ Tech Stack
-
-This section uses the style you liked, featuring badges for **Python, HTML, CSS, Figma, and Lua**.
 
 <p align="center">
   <a href="https://www.python.org/">
