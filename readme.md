@@ -7,5 +7,5 @@
 
 ## [?] Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,figma,css,swift" alt="Python, HTML, Figma, CSS, Swift Icons" />
+  <img src="https://skillicons.dev/icons?i=python,html,figma,css,swift,c" alt="Python, HTML, Figma, CSS, Swift, C Icons" />
 </p>
