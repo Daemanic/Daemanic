@@ -1,5 +1,5 @@
 <p align="center">
-  # Daemanic™️
+  ## Daemanic™️
 </p>
 
 ## ✨ About Me
