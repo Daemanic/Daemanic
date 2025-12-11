@@ -6,5 +6,5 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,figma,lua" alt="Python, HTML, Figma, CSS Icons" />
+  <img src="https://skillicons.dev/icons?i=python,html,figma,css" alt="Python, HTML, Figma, CSS Icons" />
 </p>
