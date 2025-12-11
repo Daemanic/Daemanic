@@ -1,11 +1,11 @@
-## 🎱 About Me
+## 🫆 About Me
 
-* 🎓 1st Year at **Softwarica College of IT and E-Commerce**
-* 👾 Passionate about **Cybersecurity** and also interested in **Development**
+* 📚 1st Year at **Softwarica College of IT and E-Commerce**
+* 🔐 Passionate about **Cybersecurity** and also interested in **Development**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
