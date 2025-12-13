@@ -6,5 +6,5 @@
 
 ## [?] Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,mysql,html,php,css" alt="Python, C, MySQL, HTML, FIGMA, PHP, CSS Icons" />
+  <img src="https://skillicons.dev/icons?i=python,c,bash,html,mysql,css" alt="Python, C, BASH, HTML, FIGMA, MYSQL, CSS Icons" />
 </p>
