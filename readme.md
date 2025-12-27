@@ -6,5 +6,5 @@
 
 ## [?] Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,bash,arduino,kali,git"/>
+  <img src="https://skillicons.dev/icons?i=python,lua,bash,arduino,kali,git"/>
 </p>
