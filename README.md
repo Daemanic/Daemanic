@@ -11,7 +11,7 @@
 
 ---
 
-## [?] GitHub Stats
+## [?] Github Status
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daemanic&layout=compact&theme=transparent&card_width=400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daemanic&layout=compact&theme=transparent&hide_border=true&card_width=400" />
 </p>
