@@ -8,11 +8,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,kali,css,bash,js,blender"/>
 </p>
-
----
-
-## [?] Github Status
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daemanic&show_icons=true&theme=transparent&hide_border=true&height=150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daemanic&layout=compact&theme=transparent&hide_border=true&height=150" />
-</p>
