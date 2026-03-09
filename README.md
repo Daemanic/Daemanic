@@ -6,5 +6,5 @@
 
 ## [?] Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,kali,css,bash,js,blender"/>
+  <img src="https://skillicons.dev/icons?i=python,html,kali,css,bash,blender"/>
 </p>
