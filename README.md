@@ -1,5 +1,5 @@
 ## [?] About Me
-* 1st Year at **Softwarica College of IT and E-Commerce**
+* 2nd Year at **Softwarica College of IT and E-Commerce**
 * **BSc (Hons) Ethical Hacking and Cybersecurity**
 
 ---
