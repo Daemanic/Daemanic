@@ -17,7 +17,7 @@
 |---|---|
 | Building | [ web honeypot with attack dashboard ] |
 | Learning | [ operating system and reverse eng. ] |
-| Aiming | [ junior pentesting roles · soc analyst ] |
+| Searching | [ junior pentesting roles · soc analyst (t1) ] |
 
 ---
 
