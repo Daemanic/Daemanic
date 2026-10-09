@@ -1,4 +1,4 @@
-![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7DB4F2&width=480&height=30&lines=%24+echo+"Hello,+I+am+Aditya+Shrestha";$+cat+/var/log/role.log;>+Aspiring+ethical+hacker)
+![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7DB4F2&width=480&height=30&lines=%24+echo+"Hello,+I+am+Aditya+Shrestha";$+cat+/var/log/role.log;%5BINFO%5D+role%3A+aspiring+ethical+hacker)
 
 ---
 
