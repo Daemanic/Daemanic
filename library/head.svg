@@ -49,7 +49,7 @@
 
   <!-- text -->
   <text x="70" y="108" class="mono tag" font-size="18" letter-spacing="2">$ WHOAMI</text>
-  <text x="66" y="188" class="sans ink" font-size="88" font-weight="800" letter-spacing="-2">Aditya Shrestha</text>
+  <text x="66" y="188" class="sans ink" font-size="88" font-weight="800" letter-spacing="-2">ADITYA SHRESTHA</text>
   <rect x="70" y="208" width="84" height="5" rx="2.5" fill="#7DB4F2"/>
   <text x="70" y="252" class="mono tag" font-size="18" letter-spacing="4">BUILD  &#183;  TEST  &#183;  BREAK  &#183;  UNDERSTAND<tspan class="blink">_</tspan></text>
 
