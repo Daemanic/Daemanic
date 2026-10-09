@@ -6,7 +6,7 @@
 
 I'm a cybersecurity student driven by questions: `why()` · `how()` · `what_breaks()`
 
-I answer them by building. I write small tools or projects, then test them until they break: `build()` → `test()` → `break()` → `understand()`
+I answer them by building. I make small projects, then test them until they break: `build()` → `test()` → `break()` → `understand()`
 
 That curiosity is what pulled me into security. I'm aiming for a role where it helps `protect()` people and systems.
 
@@ -24,9 +24,7 @@ That curiosity is what pulled me into security. I'm aiming for a role where it h
 
 ## [?] Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,bash,html,css,js,git,kali,arduino" alt="Tech stack" />
-</p>
+![Tech stack](https://skillicons.dev/icons?i=python,c,bash,html,css,js,git,kali,arduino)
 
 ---
 
