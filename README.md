@@ -4,11 +4,11 @@
 
 ## [?] About
 
-I'm a cybersecurity student driven by one question: `how does this actually work?`
+* I'm a cybersecurity student driven by one question: `how does this actually work?`
 
-I answer it by building. I write small tools in Python, C and Bash, plus front-end languages for the web side, and test them to see what holds and what breaks.
+* I answer it by building. I write small tools in Python, C and Bash, plus front-end languages for the web side, and test them to see what holds and what breaks.
 
-That's what pulled me into security. It rewards the people who stay curious. I'm aiming for a role where that curiosity helps keep people and systems safe.
+* That's what pulled me into security. It rewards the people who stay curious. I'm aiming for a role where that curiosity helps keep people and systems safe.
 
 ---
 
@@ -28,14 +28,4 @@ That's what pulled me into security. It rewards the people who stay curious. I'm
 
 ---
 
-## [!] Certifications & Learning
-
-- [ (Centri) Introduction to Network Analysis ] — *completed*
-- [ (Centri) Introduction to Vulnerability Management ] — *completed*
-- [ (Centri) Introduction to OSINT ] — *completed*
-- [ (Cisco) Ethical Hacker ] — *in progress*
-- [ (Cisco) Data Science Essentials with Python ] — *in progress*
-
----
-
-`Build it to understand it.`
+> Build it to understand it.
