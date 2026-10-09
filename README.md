@@ -4,11 +4,9 @@
 
 ## [?] About
 
-I'm a cybersecurity student driven by one question: **how does this actually work?**
+I'm a cybersecurity student driven by one question: `how does this actually work?`
 
 I answer it by building. I write small tools in Python, C and Bash, plus front-end languages for the web side, and test them to see what holds and what breaks.
-
-> My rule: if I can't build it, I don't fully get it yet.
 
 That's what pulled me into security. It rewards the people who stay curious. I'm aiming for a role where that curiosity helps keep people and systems safe.
 
@@ -16,7 +14,7 @@ That's what pulled me into security. It rewards the people who stay curious. I'm
 
 ## [?] Working On
 
-| | |
+| Focus | Details |
 |---|---|
 | Building | [ Web Honeypot with Attack Dashboard ] |
 | Learning | [ Operating Systems and Reverse Engineering ] |
