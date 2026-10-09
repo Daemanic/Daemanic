@@ -1,4 +1,4 @@
-![Daemanic · Cybersecurity](assets/hero.svg)
+![Daemanic · Cybersecurity](library/head.svg)
 
 ---
 
