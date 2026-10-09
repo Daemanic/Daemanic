@@ -1,59 +1,45 @@
-```
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║        ___   _   ___ __  __   _   _  _ ___ ___         ║
-║       |   \ /_\ | __|  \/  | /_\ | \| |_ _/ __|        ║
-║       | |) / _ \| _|| |\/| |/ _ \| .` || | (__         ║
-║       |___/_/ \_\___|_|  |_/_/ \_\_|\_|___\___|        ║
-║                                                        ║
-║      BSc. (Hons) Ethical Hacking & Cybersecurity       ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
+# echo 'hello, i'm Aditya Shrestha'
+
+![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00C2A8&width=520&lines=Cybersecurity+student;I+build+things+to+understand+them;Python+%C2%B7+C+%C2%B7+Bash)
 
 ---
 
-```
-daemanic@kali:~$ cat about.txt
+## [?] About
 
-  [ Hello, I'm Aditya Shrestha, a cybersecurity student driven by one question: how does this actually work?
+I'm a cybersecurity student driven by one question: **how does this actually work?**
 
-  I answer it by building. I write small tools in Python, C and Bash, plus front-end languages for the web side, and test them to see what holds and what breaks. My rule: if I can't build it, I don't fully get it yet.
+I answer it by building. I write small tools in Python, C and Bash, plus front-end languages for the web side, and test them to see what holds and what breaks.
 
-  That's what pulled me into security. It rewards the people who stay curious. I'm aiming for a role where the curiosity helps keep people and systems safe.
+> My rule: if I can't build it, I don't fully get it yet.
 
-```
-
----
-
-```
-daemanic@kali:~$ ps aux | grep working_on
-
-  ├── [ ST5039CMD / course / Programming and OS ]
-  ├── [ ST5041CMD / course / Web-development & Forensics ]
-  └── [ Capsule-Corp / lab / Hacking Tools ]
-```
+That's what pulled me into security. It rewards the people who stay curious. I'm aiming for a role where that curiosity helps keep people and systems safe.
 
 ---
 
-```
-daemanic@kali:~$ cat skills.txt
+## [?] Working On
 
-  ├── languages  : Python · C · Bash
-  ├── platforms  : Kali Linux · Arduino
-  ├── tooling    : Git
-  └── security   : [ areas and tools you actually use ]
-```
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,bash,arduino,kali,c"/>
-</p>
+| | |
+|---|---|
+| 🛠️ Building | [ Web Honeypot with Attack Dashboard ] |
+| 📚 Learning | [ Operating Systems and Reverse Engineering ] |
+| 🎯 Aiming for | [ junior pentesting roles · SOC analyst (t1) ] |
 
 ---
 
-```
-daemanic@kali:~$ cat open_to.txt
+## [!] Tech Stack
 
-  ├── certs      : [ internships · junior pentesting roles · collaborations ]
-  [ contact: via LinkedIn (profile bio) ]
-```
+![Tech stack](https://skillicons.dev/icons?i=python,c,bash,html,css,js,git,kali,arduino)
+
+---
+
+## [!] Certifications & Learning
+
+- [ (Centri) Introduction to Network Analysis ] — *completed*
+- [ (Centri) Introduction to Vulnerability Management ] — *completed*
+- [ (Centri) Introduction to OSINT ] — *completed*
+- [ (Cisco) Ethical Hacker ] — *in progress*
+- [ (Cisco) Data Science Essentials with Python ] — *in progress*
+
+---
+
+`Build it to understand it.`
