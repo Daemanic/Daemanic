@@ -24,7 +24,7 @@ That curiosity is what pulled me into security. I'm aiming for a role where it h
 
 ## [?] Tech Stack
 
-![Tech stack](https://skillicons.dev/icons?i=python,c,bash,html,css,js,git,kali,arduino)
+![Tech stack](https://skillicons.dev/icons?i=kali,c,html,css,python,js,bash,git,arduino,mysql,docker)
 
 ---
 
