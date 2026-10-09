@@ -2,9 +2,9 @@
 
 ---
 
-## [?] About
+## [?] About Me
 
-I'm a cybersecurity student driven by questions: `why()` · `how()` · `what_breaks()`
+I'm a cybersecurity student driven by questions such as: `why()` · `how()` · `what_breaks()`
 
 I learn by building. Every project gets tested thoroughly: `build()` → `test()` → `break()` → `understand()`
 
