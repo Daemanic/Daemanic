@@ -14,10 +14,10 @@
 
 ## [?] Working On
 
-| Focus | Details |
+| Current Focus | Overview |
 |---|---|
-| Building | [ Web Honeypot with Attack Dashboard ] |
-| Learning | [ Operating Systems and Reverse Engineering ] |
+| Building | [ web honeypot with attack dashboard ] |
+| Learning | [ operating system and reverse eng. ] |
 | Aiming | [ junior pentesting roles · SOC analyst (T1) ] |
 
 ---
@@ -28,4 +28,7 @@
 
 ---
 
-### `[ build it  →  understand it ]`
+```python
+while not understood:
+    build()
+```
