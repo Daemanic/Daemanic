@@ -1,4 +1,4 @@
-![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7DB4F2&width=400&height=30&lines=$+echo+%22Hello,+I%27m+Aditya+Shrestha")
+![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7DB4F2&width=400&height=30&lines=$+echo+%22Hello,+I%27m+Aditya+Shrestha+.+")
 
 ---
 
