@@ -4,7 +4,7 @@
 
 ## [?] About
 
-* I'm a cybersecurity student driven by one question: `how does this actually work?`
+* I'm a cybersecurity student driven by questions: `why()` · `how()` · `what_breaks()`
 
 * I answer it by building. I write small tools in Python, C and Bash, plus front-end languages for the web side, and test them to see what holds and what breaks.
 
@@ -22,10 +22,10 @@
 
 ---
 
-## [!] Tech Stack
+## [?] Tech Stack
 
 ![Tech stack](https://skillicons.dev/icons?i=python,c,bash,html,css,js,git,kali,arduino)
 
 ---
 
-> Build it to understand it.
+### `[ build it  →  understand it ]`
