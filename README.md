@@ -1,5 +1,3 @@
-# echo 'hello, i'm Aditya Shrestha'
-
 ![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00C2A8&width=520&lines=Cybersecurity+student;I+build+things+to+understand+them;Python+%C2%B7+C+%C2%B7+Bash)
 
 ---
