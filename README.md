@@ -1,4 +1,4 @@
-![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00C2A8&width=520&lines=Cybersecurity+student;I+build+things+to+understand+them;Python+%C2%B7+C+%C2%B7+Bash)
+![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00C2A8&width=520&lines=echo+"Hello+I'm+Aditya")
 
 ---
 
@@ -18,9 +18,9 @@ That's what pulled me into security. It rewards the people who stay curious. I'm
 
 | | |
 |---|---|
-| 🛠️ Building | [ Web Honeypot with Attack Dashboard ] |
-| 📚 Learning | [ Operating Systems and Reverse Engineering ] |
-| 🎯 Aiming for | [ junior pentesting roles · SOC analyst (t1) ] |
+| Building | [ Web Honeypot with Attack Dashboard ] |
+| Learning | [ Operating Systems and Reverse Engineering ] |
+| Aiming | [ junior pentesting roles · SOC analyst (T1) ] |
 
 ---
 
