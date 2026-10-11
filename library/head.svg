@@ -37,8 +37,8 @@
     <polygon class="star tw" points="722.0,48.0 725.7,56.9 735.3,57.7 728.0,63.9 730.2,73.3 722.0,68.3 713.8,73.3 716.0,63.9 708.7,57.7 718.3,56.9" style="animation-delay:1.5s"/>
     <polygon class="star tw" points="760.0,272.0 762.6,278.4 769.5,278.9 764.3,283.4 765.9,290.1 760.0,286.5 754.1,290.1 755.7,283.4 750.5,278.9 757.4,278.4" style="animation-delay:.4s"/>
     <text x="70" y="104" class="mono lab" font-size="18" letter-spacing="3" font-weight="700">$ WHOAMI</text>
-    <text x="75" y="193" class="sans sh" font-size="92" font-weight="900" letter-spacing="-2">Aditya</text>
-    <text x="70" y="188" class="sans ink" font-size="92" font-weight="900" letter-spacing="-2">Aditya</text>
+    <text x="75" y="193" class="sans sh" font-size="92" font-weight="900" letter-spacing="-2">ADITYA</text>
+    <text x="70" y="188" class="sans ink" font-size="92" font-weight="900" letter-spacing="-2">ADITYA</text>
     <rect x="70" y="224" width="486" height="42" rx="21" class="pill"/>
     <text x="94" y="251" class="mono pilltxt" font-size="16" letter-spacing="3" font-weight="700">BUILD &#183; TEST &#183; BREAK &#183; UNDERSTAND<tspan class="blink">_</tspan></text>
   </g>
