@@ -18,6 +18,7 @@ That curiosity is what pulled me into security. I'm aiming for a role where it h
 |:----------------------------------------------------------|:-------------------------------------------------|
 | [**Building**](https://github.com/Daemanic/Web-Honeypot)      | Web honeypot with attack dashboard           |
 | [**Learning**](https://github.com/Daemanic/OS-Program)        | Operating systems and reverse engineering    |
+| [**Practicing**](https://tryhackme.com/p/abslute)             | TryHackMe practical challenges and roadmaps  |
 
 ---
 
