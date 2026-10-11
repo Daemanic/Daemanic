@@ -14,11 +14,11 @@ That curiosity is what pulled me into security. I'm aiming for a role where it h
 
 ## [?] Working On
 
-| Currently     | Overview                                         |
-|:--------------|:-------------------------------------------------|
-| Building      | [Web honeypot with attack dashboard](https://github.com/Daemanic/Web-Honeypot)               |
-| Learning      | [Operating systems and reverse engineering](https://github.com/Daemanic/OS-Program)          |
-| Searching     | Junior pentesting roles · SOC analyst positions  |
+| Currently                                                 | Overview                                         |
+|:----------------------------------------------------------|:-------------------------------------------------|
+| [Building](https://github.com/Daemanic/Web-Honeypot)      | Web honeypot with attack dashboard               |
+| [Learning](https://github.com/Daemanic/OS-Program)        | Operating systems and reverse engineering        |
+| Searching                                                 | Junior pentesting roles · SOC analyst positions  |
 
 ---
 
