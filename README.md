@@ -17,8 +17,8 @@ That curiosity is what pulled me into security. I'm aiming for a role where it h
 | Currently                                                                                                             | Overview                                         |
 |:----------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------|
 | [**Building**](https://github.com/Daemanic/Web-Honeypot)                                                              | Web honeypot with attack dashboard               |
-| [**Learning**](https://profile.hackthebox.com/profile/01a0c47a-bc76-735b-b0e1-305ec1aa20f3?utm_medium=copy_url)       | HackTheBox academy foundation and hands-on lab   |
 | [**Practicing**](https://tryhackme.com/p/abslute)                                                                     | TryHackMe practical challenges and roadmaps      |
+| [**Learning**](https://profile.hackthebox.com/profile/01a0c47a-bc76-735b-b0e1-305ec1aa20f3?utm_medium=copy_url)       | HackTheBox academy foundation and hands-on lab   |
 
 ---
 
